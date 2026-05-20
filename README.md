@@ -27,3 +27,6 @@ The goal of this project is to study how market sentiment affects trader profita
 - Google Colab Notebook (.ipynb)
 - PDF Report
 - Dataset files
+
+## Dataset Note
+The historical trading dataset was not uploaded to the repository due to file size limitations.

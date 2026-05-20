@@ -26,7 +26,8 @@ The goal of this project is to study how market sentiment affects trader profita
 ## Files Included
 - Google Colab Notebook (.ipynb)
 - PDF Report
-- Dataset files
+- Fear & Greed Index dataset
+- Resume
 
 ## Dataset Note
 The historical trading dataset was not uploaded to the repository due to file size limitations.
